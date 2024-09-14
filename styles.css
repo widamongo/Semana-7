@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+html{
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+p{
+    text-align: justify;
+}
+
+header{
+    background-color: blueviolet;
+    padding: 30px;
+}
+
+nav{
+    background-color: aquamarine;
+}
+
+main{
+    background-color: rgb(139, 139, 38);
+}
+
+footer{
+    background-color: blue;
+}
+
+img{
+    width: 100%;
+    margin: auto;
+}
+
+.imagen{
+    width: 50%;
+    background-color: rgb(216, 207, 74);
+/*     padding-top: 10px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 60px; */
+    padding: 30px 40px;
+    border: 7px double red;
+   /*  margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 40px; */
+    margin: 40px auto ;
+    outline: 7px double blue;
+    box-shadow: 9px 9px 9px 9px black;
+}
